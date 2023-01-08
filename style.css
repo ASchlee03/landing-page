@@ -147,9 +147,8 @@ text-align: center;
 padding: 40px 0;
 }
 
-
 .logo {
-  width: 100px;
-  height: 100px;
+  max-width: 300px;
+  max-height: 300px;
   object-fit: contain;
 }
