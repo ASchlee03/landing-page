@@ -1,0 +1,150 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .hero {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 80px 0;
+  }
+  
+  .hero-text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .hero-main-text {
+    font-size: 48px;
+    font-weight: 800;
+    color: #fff;
+  }
+  
+  .hero-secondary-text {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 40px;
+  
+  }
+  
+  .hero-button {
+    background-color: #3882F6;
+    border: none;
+    color: #F9FAF8;
+    padding: 20px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  .hero-button:hover {
+    background-color: #F9FAF8;
+    color: #3882F6;
+    border-radius: 8px;
+  }
+  
+  .header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .header-link-text {
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .header-link-text:hover {
+    color: #fff;
+  }
+  
+  .header-logo-text {
+    font-size: 24px;
+    color: #F9FAF8;
+  }
+  
+  .image-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 80px 0;
+  background-color: white;
+  }
+  
+  .image-section img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-right: 40px;
+  }
+  
+  .image-section-text {
+  margin: 0;
+  font-size: 18px;
+  color: black;
+  }
+  
+  .quote {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 80px 0;
+  background-color: #D3D3D3;
+  }
+  
+  .quote-text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+  color: black;
+  border-radius: 8px;
+  }
+  
+  .call-to-action {
+  text-align: center;
+  margin: 80px 0;
+  background-color: #3882F6;
+  border: 1px solid #000;
+  border-radius: 8px;
+  border-color: blue;
+  }
+  
+  .call-to-action-header {
+  font-size: 24px;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 40px;
+  }
+  
+  .call-to-action-button {
+  background-color: #3882F6;
+  border-color: white;
+  color: #fff;
+  padding: 20px 40px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 8px;
+  }
+  
+  .call-to-action-button:hover {
+  background-color: #fff;
+  color: #3882F6;
+  border-radius: 8px;
+  }
+  
+  .footer {
+  background-color: #1F2937;
+  color: #fff;
+  text-align: center;
+  padding: 40px 0;
+  }
+  
+  
