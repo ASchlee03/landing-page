@@ -147,4 +147,7 @@ body {
   padding: 40px 0;
   }
   
-  
+  .logo {
+    width: 200px;
+    height: 200px;
+  }
