@@ -152,3 +152,7 @@ padding: 40px 0;
   max-height: 300px;
   object-fit: contain;
 }
+
+.business {
+object-fit: none;
+}
